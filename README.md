@@ -13,10 +13,10 @@ A Go-based virtual assistant that integrates with Google Calendar and Telegram, 
 ## Prerequisites
 
 - Go 1.21 or higher
-- Google Cloud Project with Calendar API enabled
+- GCP with Calendar API enabled
 - Telegram Bot Token
 - Claude Code subscription (installed locally)
-- ngrok (optional, for webhook mode)
+- Ngrok
 
 ## Setup Instructions
 
