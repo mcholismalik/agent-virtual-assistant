@@ -6,9 +6,11 @@ A Go-based virtual assistant that integrates with Google Calendar and Telegram, 
 
 - 📅 **Google Calendar Integration**: Create events and check today's schedule
 - 🤖 **Telegram Bot**: Interactive chat interface with natural language processing
-- 🔔 **Smart Reminders**: Automatic notifications 10 min before meetings
 - 🧠 **Claude Code**: Uses your local Claude Code subscriptions, without API Key (for education / dev purposes)
-- 🌐 **Webhook Support**: Works with ngrok for local development with webhooks
+- 🌐 **Ngrok**: Works with ngrok for local development with webhooks support
+- 🔥 **Langchain Go**: Agent orchestrator with langchain go for simplicity
+- 🔔 **Smart Reminders**: Automatic notifications 10 min before meetings with cron
+
 
 ## Prerequisites
 
