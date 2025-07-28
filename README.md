@@ -166,7 +166,7 @@ virtual-assistant/
 - **Google Calendar API**: 1,000,000 requests/day (free)
 - **Telegram Bot API**: Completely free
 - **Claude Code**: Uses your existing subscription (no additional API costs)
-- **ngrok**: Free tier allows basic tunneling
+- **Ngrok**: Free tier allows basic tunneling
 
 ## Troubleshooting
 
