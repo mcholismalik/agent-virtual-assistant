@@ -1,4 +1,4 @@
-# Virtual Assistant with Google Calendar & Telegram Integration
+# Agent Virtual Assistant 
 
 A Go-based virtual assistant that integrates with Google Calendar and Telegram, using your local Claude Code subscription for natural language processing. The assistant can create calendar events, check today's meetings, and send automated reminders via Telegram.
 
