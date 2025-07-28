@@ -54,7 +54,7 @@ Since you already have a Claude Code subscription, the system will use your loca
 2. Test by running `claude --version` in your terminal
 3. If Claude Code is installed in a different location, note the full path for configuration
 
-#### ngrok Setup (Optional - for webhook mode)
+#### Ngrok Setup
 1. Install ngrok:
 ```bash
 brew install ngrok/ngrok/ngrok
